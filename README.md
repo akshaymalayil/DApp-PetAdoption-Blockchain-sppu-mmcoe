@@ -54,5 +54,15 @@ Ensure that you have the following installed:
 
 ### Usages
 1. Register with your email or sign in using the registration form on the homepage.
+![1](https://github.com/user-attachments/assets/9180ee0f-4277-4036-8338-568b7ae0b454)
+![2](https://github.com/user-attachments/assets/9909820a-8114-4dc1-863d-07137d82b98a)
+
 2. Browse available pets for adoption.
+![3](https://github.com/user-attachments/assets/4cf3f7dd-bddb-46f6-9228-3f5525389202)
+
 3. Click the "Adopt" button to adopt a pet. MetaMask will ask for transaction approval.
+![4](https://github.com/user-attachments/assets/e0e31493-b588-4f31-b04f-0d26e911da16)
+
+4. Lists of transactions
+![6](https://github.com/user-attachments/assets/8b2dfe85-e10d-4572-ae72-36a40eadf8ff)
+
